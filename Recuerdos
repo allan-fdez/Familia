@@ -1,9 +1,16 @@
 #EXTM3U
 #EXTINF:0 Elías
-https://hyena.jawcloud.co/hls/baxphs62mftrdl2gmju6osvhdo6teuq4sfowsms2w5mtgqbzo4iejr55qo7q/index-v1-a1.m3u8
+https://hyena.jawcloud.co/hls/baxphs62mftrdl2gmju6osvhdo6teuq4sfowsms2w5mtgqbzo4iflisbqo7q/index-v1-a1.m3u8
 
-#EXTINF:0 Jockey
-https://hyena.jawcloud.co/hls/baxpnsg2mftrdl2gmju6ovnbd2oxj34snbj3nwoubkjeqylxxll2rqcvm25a/index-v1-a1.m3u8
+#EXTINF:0 Jugando Jockey
+https://hyena.jawcloud.co/hls/baxpnsg2mftrdl2gmju6ovnbd2oxj34snbj3nwoubkjeqylxxll33jnjm25a/index-v1-a1.m3u8
 
 #EXTINF:0 CHUCKY CHEESE'S
-https://cheetah.jawcloud.co/hls/baxphr62mftrdl2gmju6orpyd7gxdkbbt57ntdtvvmymk2fkgir6n7gs6pgq/index-v1-a1.m3u8
+https://cheetah.jawcloud.co/hls/baxphr62mftrdl2gmju6orpyd7gxdkbbt57ntdtvvhw4i2fkgirq63s5sw6a/index-v1-a1.m3u8
+
+#EXTINF:0 Elías en City Mall
+https://turtle.jawcloud.co/hls/baxpnermmztrdl2gmjwoor5mjbjv47dizbo44eyvjyufqdl5cxenzub7pisq/index-v1-a1.m3u8
+
+#EXTINF:0 Mami
+https://tiger.jawcloud.co/hls/baxpvvw2mftrdl2gmju6oq5mlaxxkch4ixagcq2zwyw7djwyoflolspmfiga/index-v1-a1.m3u8
+
